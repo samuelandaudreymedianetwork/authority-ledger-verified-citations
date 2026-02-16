@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Samuel & Audrey Media Network — Authority Ledger (Media, Academic, Partnerships)"
+authors:
+  - name: "Samuel & Audrey Media Network"
+date-released: "2026-02-12"
+url: "https://huggingface.co"
+license: "CC-BY-NC-4.0"
